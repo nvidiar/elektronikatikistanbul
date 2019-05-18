@@ -1,14 +1,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link type="text/css" media="all"
-      href="wp-content/cache/autoptimize/css/autoptimize_70346442dcf18dc602232432cf585cfb.css" rel="stylesheet">
+      href="/wp-content/cache/autoptimize/css/autoptimize_70346442dcf18dc602232432cf585cfb.css" rel="stylesheet">
 <link type="text/css" media="only screen and (max-width: 768px)"
-      href="wp-content/cache/autoptimize/css/autoptimize_dcb2de333eec7ab4ae31385ed8d6a393.css" rel="stylesheet">
+      href="/wp-content/cache/autoptimize/css/autoptimize_dcb2de333eec7ab4ae31385ed8d6a393.css" rel="stylesheet">
 <title>Elektronik Atık İstanbul</title>
 <link rel="stylesheet" id="gramotech-fonts-css"
       href='http://fonts.googleapis.com/css?family=Roboto+Slab%3A100%2C300%2C400%2C700%7CPoppins%3A300%2C400%2C500%2C600%2C700%2C700i%2C800%7CRoboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i%7CRoboto+Condensed%3A300i%2C400%2C400i%2C700%7CLato%3A300%2C400%2C700%2C900&subset'
       type="text/css" media="all">
-<script src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script>var wsp_obj = {
     "loader": "Loader 4",
     "homepage": "1",
@@ -18,8 +18,8 @@
     "fadeout": "0"
 };</script>
 <!--[if lt IE 9]>
-<script src='wp-content/themes/ecova/assets/js/html5.js?ver=3.7.3'></script> <![endif]-->
-<link rel="icon" href="wp-content/uploads/2019/02/favicon.png" type="image/png">
+<script src='/wp-content/themes/ecova/assets/js/html5.js?ver=3.7.3'></script> <![endif]-->
+<link rel="icon" href="/wp-content/uploads/2019/02/favicon.png" type="image/png">
 <script>
 function setREVStartSize(e) {
     try {

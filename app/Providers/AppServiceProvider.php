@@ -29,7 +29,8 @@ class AppServiceProvider extends ServiceProvider
         View::share([
             'name' => $name,
             'phone' => $phone,
-
+            'address' => 'Tahtakale Mahallesi Trafo Caddesi Çalıkuşu Sokak No:4 Avcılar/İstanbul',
+            'mail' => 'merhaba@elektronikatikistanbul.com',
         ]);
     }
 }

@@ -438,19 +438,19 @@
                                                     <div class="col-md-6">
                                                         <div class="about-txt">
                                                             <h2><span>neleri ?</span>geri dönüştürüyoruz...</h2>
-                                                            <p>Aslında cevabımız basit. Elektronik olan her şeyi. Bir
+                                                            <p>Aslında cevabımız basit, elektronik olan her şeyi. Bir
                                                                 kumanda anakartından tutun da bir klima radyotörüne
                                                                 kadar her şeyi. Siz bize sormaktan çekinmeyin ama
                                                                 biz yinede aşağıya neleri geri dönüştürdüğümüzü <u><b>kısaca</b></u> yazalım</p>
                                                             <ul>
-                                                                <li><i class="fas fa-check"></i> Bilgisayar Donanımları</li>
-                                                                <li><i class="fas fa-check"></i> Bilgisayar Aksesuarları
+                                                                <li><i class="fas fa-recycle"></i> Bilgisayar Donanımları</li>
+                                                                <li><i class="fas fa-recycle"></i> Bilgisayar Aksesuarları
                                                                 </li>
-                                                                <li><i class="fas fa-check"></i> Notebooklar,tabletler,telefonlar</li>
-                                                                <li><i class="fas fa-check"></i> Devre kartları
+                                                                <li><i class="fas fa-recycle"></i> Notebooklar,tabletler,telefonlar</li>
+                                                                <li><i class="fas fa-recycle"></i> Devre kartları
                                                                 </li>
-                                                                <li><i class="fas fa-check"></i> Devre Elemanları</li>
-                                                                <li><i class="fas fa-check"></i> Aküler,bataryalar,Upsler
+                                                                <li><i class="fas fa-recycle"></i> Devre Elemanları</li>
+                                                                <li><i class="fas fa-recycle"></i> Aküler,bataryalar,Upsler
                                                                 </li>
                                                             </ul>
                                                             <a class="lm" href="#">Daha fazla öğren</a>
@@ -461,18 +461,18 @@
                                                             <div class="pic1">
                                                                 <div id="pic-slider" class="owl-carousel owl-theme">
                                                                     <div class="item"><img
-                                                                            src="../wp-content/uploads/2019/01/cables.jpg"
+                                                                            src="/wp-content/uploads/2019/02/electronics.jpg"
                                                                             alt="img"></div>
                                                                     <div class="item"><img
-                                                                            src="../wp-content/uploads/2019/01/aboutpic3.jpg"
+                                                                            src="/wp-content/uploads/2019/02/islemci.jpg"
                                                                             alt="img"></div>
                                                                     <div class="item"><img
-                                                                            src="../wp-content/uploads/2019/01/aboutpic5.jpg"
+                                                                            src="/wp-content/uploads/2019/02/harddisk.jpg"
                                                                             alt="img"></div>
                                                                 </div>
                                                             </div>
                                                             <div class="pic2"><img
-                                                                    src="../wp-content/uploads/2019/02/phone.jpg"
+                                                                    src="/wp-content/uploads/2019/02/phone.jpg"
                                                                     alt="img"></div>
                                                         </div>
                                                     </div>
@@ -500,13 +500,14 @@
                                                                     <a href="projects/storm-sewer-project/index.htm">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
-                                                                         src="wp-content/uploads/2019/02/h3slide3-360x280.jpg"
+                                                                         src="wp-content/uploads/2019/02/main.jpg"
                                                                          class="attachment-gramotech-modern-projects size-gramotech-modern-projects wp-post-image"
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/storm-sewer-project/index.htm">Storm
-                                                                            Sewer Project</a></h4> <span
+                                                                        <a href="projects/storm-sewer-project/index.htm">
+                                                                            Anakart <br> Hurdası
+                                                                        </a></h4> <span
                                                                         class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
                                                                 </div>
@@ -518,13 +519,14 @@
                                                                     <a href="projects/this-project-will-consist-of-this/index.htm">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
-                                                                         src="wp-content/uploads/2019/01/33-3-360x280.jpg"
+                                                                         src="wp-content/uploads/2019/02/phones.jpg"
                                                                          class="attachment-gramotech-modern-projects size-gramotech-modern-projects wp-post-image"
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/this-project-will-consist-of-this/index.htm">This
-                                                                            project will consist of this.</a></h4>
+                                                                        <a href="projects/this-project-will-consist-of-this/index.htm">
+                                                                        Cep Telefonu Hurdası
+                                                                        </a></h4>
                                                                     <span class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
                                                                 </div>
@@ -536,13 +538,14 @@
                                                                     <a href="projects/forest-and-tree-planting-2/index.htm">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
-                                                                         src="wp-content/uploads/2019/01/58-3-360x280.jpg"
+                                                                         src="wp-content/uploads/2019/02/tablet.jpg"
                                                                          class="attachment-gramotech-modern-projects size-gramotech-modern-projects wp-post-image"
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/forest-and-tree-planting-2/index.htm">Forest
-                                                                            And Tree Planting</a></h4> <span
+                                                                        <a href="projects/forest-and-tree-planting-2/index.htm">
+                                                                            Tablet <br> Hurdası
+                                                                        </a></h4> <span
                                                                         class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
                                                                 </div>
@@ -554,13 +557,14 @@
                                                                     <a href="projects/recycling-plants-and-cubs/index.htm">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
-                                                                         src="wp-content/uploads/2019/01/44-3-360x280.jpg"
+                                                                         src="wp-content/uploads/2019/02/adapters.jpg"
                                                                          class="attachment-gramotech-modern-projects size-gramotech-modern-projects wp-post-image"
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/recycling-plants-and-cubs/index.htm">Recycling
-                                                                            Plants And Cubs</a></h4> <span
+                                                                        <a href="projects/recycling-plants-and-cubs/index.htm">
+                                                                            Adaptör <br> Hurdası
+                                                                        </a></h4> <span
                                                                         class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
                                                                 </div>
@@ -572,21 +576,22 @@
                                                                     <a href="projects/a-set-of-detention-ponds/index.htm">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
-                                                                         src="wp-content/uploads/2019/01/55-360x280.jpg"
+                                                                         src="wp-content/uploads/2019/02/power.jpg"
                                                                          class="attachment-gramotech-modern-projects size-gramotech-modern-projects wp-post-image"
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/a-set-of-detention-ponds/index.htm">A
-                                                                            Set of Detention Ponds</a></h4> <span
+                                                                        <a href="projects/a-set-of-detention-ponds/index.htm">
+                                                                            Güç Kaynağı <br> Hurdası
+                                                                        </a></h4> <span
                                                                         class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="load-more text-center w-100"><a href="#" class="lm">View
-                                                            More Work</a></div>
+                                            {{--        <div class="load-more text-center w-100"><a href="#" class="lm">View
+                                                            More Work</a></div>--}}
                                                 </div>
                                             </div>
                                         </div>
@@ -608,425 +613,6 @@
                             </div>
                         </div>
                     </section>
-                    <section class="fw-main-row   gramotech-builder this-section-css-7   ">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 ">
-                                    <div class="fw-row">
-                                        <div class="fw-col-xs-12 fw-col-md-8   ">
-                                            <div class="section-title">
-                                                <strong>News Posts</strong>
-                                                <h2>OUR LATEST</h2>
-                                            </div>
-                                            <div class="blog-list wf100">
-                                                <div class="blog-post wf100">
-                                                    <div class="blog-thumb"><a
-                                                            href="how-you-can-keep-alive-wild-animals-for-long/index.htm">
-                                                            <i class="fas fa-link"></i></a> <img width="263"
-                                                                                                 height="177"
-                                                                                                 src="wp-content/uploads/2019/01/36-263x177.jpg"
-                                                                                                 class="attachment-gramotech-news-list size-gramotech-news-list wp-post-image"
-                                                                                                 alt=""></div>
-                                                    <div class="blog-txt">
-                                                        <h5>
-                                                            <a href="how-you-can-keep-alive-wild-animals-for-long/index.htm">How
-                                                                you can keep alive wild animals for long.</a></h5>
-                                                        <ul class="post-meta">
-                                                            <li><span>By</span> ecova</li>
-                                                            <li><span>Posted</span> January 15, 2019</li>
-                                                        </ul>
-                                                        <p>
-                                                            According to a survey the perceived higher cost
-                                                            of environmentally-friendly products is the
-                                                            major holdup to consumers going green.Blogs have
-                                                            become</p>
-                                                    </div>
-                                                </div>
-                                                <div class="blog-post wf100">
-                                                    <div class="blog-thumb"><a
-                                                            href="in-eu-lorem-a-ante-mattis-vehicula-ac-in-nunc/index.htm">
-                                                            <i class="fas fa-link"></i></a> <img width="263"
-                                                                                                 height="177"
-                                                                                                 src="wp-content/uploads/2019/01/24-263x177.jpg"
-                                                                                                 class="attachment-gramotech-news-list size-gramotech-news-list wp-post-image"
-                                                                                                 alt=""></div>
-                                                    <div class="blog-txt">
-                                                        <h5>
-                                                            <a href="in-eu-lorem-a-ante-mattis-vehicula-ac-in-nunc/index.htm">In
-                                                                eu lorem a ante mattis vehicula ac in nunc.</a>
-                                                        </h5>
-                                                        <ul class="post-meta">
-                                                            <li><span>By</span> ecova</li>
-                                                            <li><span>Posted</span> January 15, 2019</li>
-                                                        </ul>
-                                                        <p>Blogs have become extremely popular in the past
-                                                            number of years because they are an authentic
-                                                            spaces where bloggers can share their thoughts,
-                                                            exper</p>
-                                                    </div>
-                                                </div>
-                                                <div class="blog-post wf100">
-                                                    <div class="blog-thumb"><a
-                                                            href="sed-ut-tellus-vel-quam-molestie-feugiat/index.htm">
-                                                            <i class="fas fa-link"></i></a> <img width="263"
-                                                                                                 height="177"
-                                                                                                 src="wp-content/uploads/2019/01/30-3-263x177.jpg"
-                                                                                                 class="attachment-gramotech-news-list size-gramotech-news-list wp-post-image"
-                                                                                                 alt=""></div>
-                                                    <div class="blog-txt">
-                                                        <h5>
-                                                            <a href="sed-ut-tellus-vel-quam-molestie-feugiat/index.htm">Sed
-                                                                ut tellus vel quam molestie feugiat.</a></h5>
-                                                        <ul class="post-meta">
-                                                            <li><span>By</span> ecova</li>
-                                                            <li><span>Posted</span> January 15, 2019</li>
-                                                        </ul>
-                                                        <p>Blogs have become extremely popular in the past
-                                                            number of years because they are an authentic
-                                                            spaces where bloggers can share their thoughts,
-                                                            exper</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="fw-col-xs-12 fw-col-md-4   ">
-                                            <div class="section-title">
-                                                <strong>OUR NEXT</strong>
-                                                <h2>Events</h2>
-                                            </div>
-                                            <div class="event-posts wf100 ">
-                                                <div class="event-post">
-                                                    <div class="event-thumb">
-                                                        <a href="events/get-the-wild-generation-safe/index.htm">
-                                                            <i class="fas fa-link"></i></a><img width="360"
-                                                                                                height="240"
-                                                                                                src="wp-content/uploads/2019/01/61-3-360x240.jpg"
-                                                                                                class="attachment-gramotech-give-grid size-gramotech-give-grid wp-post-image"
-                                                                                                alt="">
-                                                        <ul class="post-meta">
-                                                            <li>05 January, 2019</li>
-                                                            <li>01:15 am to 02:30 am</li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="event-txt">
-                                                        <h6><a href="events/get-the-wild-generation-safe/index.htm">Get
-                                                                the wild family</a></h6>
-                                                        <p><i class="fas fa-map-marker-alt"></i>150 / G iii,
-                                                            Newyork, USA</p>
-                                                    </div>
-                                                </div>
-                                                <div class="event-post">
-                                                    <div class="event-thumb">
-                                                        <a href="events/can-you-feel-the-mood-of-this-paragraph/index.htm">
-                                                            <i class="fas fa-link"></i></a><img width="360"
-                                                                                                height="240"
-                                                                                                src="wp-content/uploads/2019/01/55-360x240.jpg"
-                                                                                                class="attachment-gramotech-give-grid size-gramotech-give-grid wp-post-image"
-                                                                                                alt="">
-                                                        <ul class="post-meta">
-                                                            <li>05 January, 2019</li>
-                                                            <li>01:30 am to 04:45 am</li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="event-txt">
-                                                        <h6>
-                                                            <a href="events/can-you-feel-the-mood-of-this-paragraph/index.htm">Can
-                                                                you feel mood</a></h6>
-                                                        <p><i class="fas fa-map-marker-alt"></i>150 / G iii,
-                                                            Newyork, USA</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="fw-main-row   gramotech-builder this-section-css-10   ">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 ">
-                                    <div class="fw-row">
-                                        <div class="fw-col-xs-12 fw-col-sm-12 fw-col-md-12 fw-col-lg-12   ">
-                                            <div class="fw-divider-space" style="padding-top: 80px;"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="fw-main-row   gramotech-builder this-section-css-11   ">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 ">
-                                    <div class="fw-row">
-                                        <div class="fw-col-xs-12 fw-col-sm-12 fw-col-md-12 fw-col-lg-12   ">
-                                            <div class="wf100 fcampaigns causes-grid">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-                                                        <div class="section-title">
-                                                            <strong>OUR CAUSES</strong>
-                                                            <h2>Fundraising Campaigns</h2>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-md-4">
-                                                        <div class="campaign-box">
-                                                            <div class="campaign-thumb"><a
-                                                                    href="donations/lets-safe-our-planet-by-stop-global-warming/index.htm">
-                                                                    <i class="fas fa-link"></i></a>
-                                                                <img width="360" height="240"
-                                                                     src="wp-content/uploads/2019/01/43-3-360x240.jpg"
-                                                                     class="attachment-gramotech-give-grid size-gramotech-give-grid wp-post-image"
-                                                                     alt=""></div>
-                                                            <div class="campaign-txt">
-                                                                <h5>
-                                                                    <a href="donations/lets-safe-our-planet-by-stop-global-warming/index.htm">Let’s
-                                                                        Safe our Planet by Stop Global Warming</a>
-                                                                </h5>
-                                                                <ul class="participants">
-                                                                    <li><img alt=""
-                                                                             src='http://2.gravatar.com/avatar/8a7c16924aaf23eab47a82c057ec4eae?s=30&d=mm&r=g'
-                                                                             srcset='http://2.gravatar.com/avatar/8a7c16924aaf23eab47a82c057ec4eae?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://1.gravatar.com/avatar/4ab14a0f82588406594a80c90ec57b77?s=30&d=mm&r=g'
-                                                                             srcset='http://1.gravatar.com/avatar/4ab14a0f82588406594a80c90ec57b77?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/f6cccb92b4ed209293c55ef83a47644f?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/f6cccb92b4ed209293c55ef83a47644f?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/0e40278fb7720a2a3ea8bf7bb2367acf?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/0e40278fb7720a2a3ea8bf7bb2367acf?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://1.gravatar.com/avatar/48101cc8c1e02546b2da0e48daa74a1f?s=30&d=mm&r=g'
-                                                                             srcset='http://1.gravatar.com/avatar/48101cc8c1e02546b2da0e48daa74a1f?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><span>+1</span></li>
-                                                                    <li><strong><i>6</i> Backers</strong></li>
-                                                                </ul>
-                                                                <div class="progress">
-                                                                    <div class="progress-bar" role="progressbar"
-                                                                         style="width: 29%" aria-valuenow="29"
-                                                                         aria-valuemin="0" aria-valuemax="100">
-                                                                    </div>
-                                                                </div>
-                                                                <ul class="funds">
-                                                                    <li><strong>29%</strong> Funded</li>
-                                                                    <li><strong>&#036;2,600</strong> Raised
-                                                                    </li>
-                                                                    <li><strong>&#036;9,050</strong>
-                                                                        Required
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                            <a href="donations/lets-safe-our-planet-by-stop-global-warming/index.htm"
-                                                               class="dbutton">Donate Now</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4">
-                                                        <div class="campaign-box">
-                                                            <div class="campaign-thumb"><a
-                                                                    href="donations/its-time-to-safe-trees-forest-planting/index.htm">
-                                                                    <i class="fas fa-link"></i></a>
-                                                                <img width="360" height="240"
-                                                                     src="wp-content/uploads/2019/01/44-3-360x240.jpg"
-                                                                     class="attachment-gramotech-give-grid size-gramotech-give-grid wp-post-image"
-                                                                     alt=""></div>
-                                                            <div class="campaign-txt">
-                                                                <h5>
-                                                                    <a href="donations/its-time-to-safe-trees-forest-planting/index.htm">It’s
-                                                                        time to Safe Trees &#038; Forest
-                                                                        Planting</a></h5>
-                                                                <ul class="participants">
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/f6cccb92b4ed209293c55ef83a47644f?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/f6cccb92b4ed209293c55ef83a47644f?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://2.gravatar.com/avatar/8a7c16924aaf23eab47a82c057ec4eae?s=30&d=mm&r=g'
-                                                                             srcset='http://2.gravatar.com/avatar/8a7c16924aaf23eab47a82c057ec4eae?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/f98ac7a1a3a8df3027bdef100f745f29?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/f98ac7a1a3a8df3027bdef100f745f29?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/f6cccb92b4ed209293c55ef83a47644f?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/f6cccb92b4ed209293c55ef83a47644f?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/0e40278fb7720a2a3ea8bf7bb2367acf?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/0e40278fb7720a2a3ea8bf7bb2367acf?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><span>+2</span></li>
-                                                                    <li><strong><i>7</i> Backers</strong></li>
-                                                                </ul>
-                                                                <div class="progress">
-                                                                    <div class="progress-bar" role="progressbar"
-                                                                         style="width: 30%" aria-valuenow="30"
-                                                                         aria-valuemin="0" aria-valuemax="100">
-                                                                    </div>
-                                                                </div>
-                                                                <ul class="funds">
-                                                                    <li><strong>30%</strong> Funded</li>
-                                                                    <li><strong>&#036;2,700</strong> Raised
-                                                                    </li>
-                                                                    <li><strong>&#036;9,050</strong>
-                                                                        Required
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                            <a href="donations/its-time-to-safe-trees-forest-planting/index.htm"
-                                                               class="dbutton">Donate Now</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4">
-                                                        <div class="campaign-box">
-                                                            <div class="campaign-thumb"><a
-                                                                    href="donations/securing-endagered-animals-life/index.htm">
-                                                                    <i class="fas fa-link"></i></a>
-                                                                <img width="360" height="240"
-                                                                     src="wp-content/uploads/2019/01/62-3-360x240.jpg"
-                                                                     class="attachment-gramotech-give-grid size-gramotech-give-grid wp-post-image"
-                                                                     alt=""></div>
-                                                            <div class="campaign-txt">
-                                                                <h5>
-                                                                    <a href="donations/securing-endagered-animals-life/index.htm">Securing
-                                                                        Endagered Animal’s Life</a></h5>
-                                                                <ul class="participants">
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/f3e5ffc85a7ca6842ded1dfe4ffad026?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/f3e5ffc85a7ca6842ded1dfe4ffad026?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://1.gravatar.com/avatar/48101cc8c1e02546b2da0e48daa74a1f?s=30&d=mm&r=g'
-                                                                             srcset='http://1.gravatar.com/avatar/48101cc8c1e02546b2da0e48daa74a1f?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/0e40278fb7720a2a3ea8bf7bb2367acf?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/0e40278fb7720a2a3ea8bf7bb2367acf?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://2.gravatar.com/avatar/8a7c16924aaf23eab47a82c057ec4eae?s=30&d=mm&r=g'
-                                                                             srcset='http://2.gravatar.com/avatar/8a7c16924aaf23eab47a82c057ec4eae?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><img alt=""
-                                                                             src='http://0.gravatar.com/avatar/f98ac7a1a3a8df3027bdef100f745f29?s=30&d=mm&r=g'
-                                                                             srcset='http://0.gravatar.com/avatar/f98ac7a1a3a8df3027bdef100f745f29?s=60&d=mm&r=g'
-                                                                             class='avatar avatar-30 photo'
-                                                                             height="30" width="30"></li>
-                                                                    <li><span>+4</span></li>
-                                                                    <li><strong><i>9</i> Backers</strong></li>
-                                                                </ul>
-                                                                <div class="progress">
-                                                                    <div class="progress-bar" role="progressbar"
-                                                                         style="width: 40%" aria-valuenow="40"
-                                                                         aria-valuemin="0" aria-valuemax="100">
-                                                                    </div>
-                                                                </div>
-                                                                <ul class="funds">
-                                                                    <li><strong>40%</strong> Funded</li>
-                                                                    <li><strong>&#036;3,605</strong> Raised
-                                                                    </li>
-                                                                    <li><strong>&#036;9,050</strong>
-                                                                        Required
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                            <a href="donations/securing-endagered-animals-life/index.htm"
-                                                               class="dbutton">Donate Now</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="fw-main-row   gramotech-builder this-section-css-13   ">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 ">
-                                    <div class="fw-row">
-                                        <div class="fw-col-xs-12 fw-col-md-7   ">
-                                            <div class="promises ">
-                                                <div class="pro-title">
-                                                    <h2>Current Promises</h2>
-                                                    <h3>Save Water, Energey, Control Pollution &amp; Environment,
-                                                        Wildlife, Forest Planting Implementation of Solar System.
-                                                    </h3>
-                                                </div>
-                                                <ul class="counter">
-                                                    <li>
-                                                        <p class="counter-count">69000</p>
-                                                        <p class="ctxt">Trees Planted</p>
-                                                    </li>
-                                                    <li>
-                                                        <p class="counter-count">79000</p>
-                                                        <p class="ctxt">Solar Panels in 2017</p>
-                                                    </li>
-                                                    <li>
-                                                        <p class="counter-count">49000</p>
-                                                        <p class="ctxt">Wildlife Saved</p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="fw-col-xs-12 fw-col-md-5   ">
-                                            <div class="join-our-movement volunteer-form">
-                                                <div class="section-title">
-                                                    <strong>JOIN US NOW</strong>
-                                                    <h2>Become Volunteer</h2>
-                                                </div>
-                                                <form id="gramotech-submit-form" method="post"
-                                                      data-ajax="http://gramotech.com/wp/ecova/v2/wp-admin/admin-ajax.php">
-                                                    <ul>
-                                                        <li>
-                                                            <input type="text" class="form-control"
-                                                                   name="first_name" id="first_name"
-                                                                   placeholder="First Name"></li>
-                                                        <li>
-                                                            <input type="text" class="form-control" name="last_name"
-                                                                   id="last_name" placeholder="Last Name"></li>
-                                                        <li>
-                                                            <input type="text" class="form-control"
-                                                                   name="email_address1" id="email_address1"
-                                                                   placeholder="Email Address"></li>
-                                                        <li>
-                                                            <input type="submit" class="fsubmit"
-                                                                   value="Subscribe Now"></li>
-                                                    </ul>
-                                                    <div class="status"></div>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
                     <section class="fw-main-row   gramotech-builder this-section-css-16   ">
                         <div class="container">
                             <div class="row">
@@ -1037,28 +623,8 @@
                                                 <div class="row">
                                                     <div class="col-lg-5">
                                                         <div class="section-title">
-                                                            <strong>OUR LATEST</strong>
-                                                            <h2>Activities Gallery</h2>
+                                                            <h2>E-Atık Galerisi</h2>
                                                         </div>
-                                                    </div>
-                                                    <div class="col-lg-7">
-                                                        <ul class="flinks">
-                                                            <li class="active"><a data-filter="*" href="#">Show
-                                                                    All</a>
-                                                            </li>
-                                                            <li><a data-filter=".gallery-filter-66"
-                                                                   href="index.htm">Wildlife
-                                                                </a></li>
-                                                            <li><a data-filter=".gallery-filter-64"
-                                                                   href="index.htm">Water
-                                                                    Resources</a></li>
-                                                            <li><a data-filter=".gallery-filter-60"
-                                                                   href="index.htm">Solar
-                                                                    Energy</a></li>
-                                                            <li><a data-filter=".gallery-filter-57"
-                                                                   href="index.htm">Recycling
-                                                                </a></li>
-                                                        </ul>
                                                     </div>
                                                 </div>
                                                 <div class="gallery-inner masonry">
@@ -1111,7 +677,9 @@
                                                                                                      src="wp-content/uploads/2019/01/agallery4-2-1-2-1-277x248.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt=""
-                                                                                                     srcset="wp-content/uploads/2019/01/agallery4-2-1-2-1-277x248.jpg 277w, wp-content/uploads/2019/01/agallery4-2-1-2-1-278x250.jpg 278w, wp-content/uploads/2019/01/agallery4-2-1-2-1.jpg 279w"
+                                                                                                     srcset="wp-content/uploads/2019/01/agallery4-2-1-2-1-277x248.jpg 277w,
+                                                                                                     wp-content/uploads/2019/01/agallery4-2-1-2-1-278x250.jpg 278w,
+                                                                                                     wp-content/uploads/2019/01/agallery4-2-1-2-1.jpg 279w"
                                                                                                      sizes="(max-width: 277px) 100vw, 277px">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-57 gallery-filter-64 ">

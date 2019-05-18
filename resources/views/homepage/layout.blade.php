@@ -6,7 +6,7 @@
 <body class="home page-template-default page page-id-91 give-test-mode give-page woocommerce-no-js wp-smart-body">
 <div class="wrapper home1" data-home="http://gramotech.com/wp/ecova/v2/">
     @include('homepage.partials.navbar')
-    @include('homepage.partials.sliderContent')
+    @yield('section')
     @include('homepage.partials.footer')
 </div>
     @include('homepage.partials.sidebar')
@@ -43,7 +43,7 @@
     "disable_bookings_warning": "Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have",
     "booking_warning_cancel": "Are you sure you want to cancel your booking?"
 };</script>
-<script src="wp-content/cache/autoptimize/js/autoptimize_f570a0fb6e4b340d62e9945b3533c142.js">
+<script src="/wp-content/cache/autoptimize/js/autoptimize_f570a0fb6e4b340d62e9945b3533c142.js">
 </script>
 </body>
 </html>

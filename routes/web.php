@@ -12,8 +12,21 @@
 */
 
 Route::group(['prefix'=> '/'], function () {
-    Route::get('/','homePageController@index')->name('home');
+    Route::get('','homePageController@index')->name('home');
     Route::get('/hakkimizda','homePageController@about')->name('about');
     Route::get('/iletisim','homePageController@contact')->name('contact');
-    Route::get('/hizmetlerimiz','homePageController@services')->name('services');
+    Route::post('/contactUs','homePageController@contactUs')->name('contactUs');
+});
+
+
+Route::group(['prefix'=>'eatik'],function () {
+    Route::get('/','homePageController@services')->name('services');
+    Route::get('/anakart-hurdasi', 'WasteController@findItem')->name('mainboard');
+    Route::get('/telefon-hurdasi', 'WasteController@findItem')->name('phones');
+    Route::get('/tablet-hurdasi', 'WasteController@findItem')->name('tablet');
+    Route::get('/adaptor-hurdasi', 'WasteController@findItem')->name('adapter');
+    Route::get('/monitor-hurdasi', 'WasteController@findItem')->name('monitor');
+    Route::get('/oem-hurdalar', 'WasteController@findItem')->name('oem');
+    Route::get('/{anything}', 'WasteController@findItem');
+
 });

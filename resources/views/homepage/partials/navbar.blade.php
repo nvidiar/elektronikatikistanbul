@@ -1,6 +1,6 @@
 <header class="header-style-1 ">
     <nav class="navbar navbar-expand-lg">
-        <a class="navbar-brand" href="{{ route('home') }}"> <img src="wp-content/uploads/2019/02/logo2.png" alt="Ecova">
+        <a class="navbar-brand" href="{{ route('home') }}"> <img src="/wp-content/uploads/2019/02/logo2.png" alt="Ecova">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i
@@ -12,7 +12,7 @@
                         href="{{ route('home') }}">Anasayfa </a></li>
                         <li id="menu-item-2213"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a
-                        href="{{ route('services') }}">Hizmetlerimiz </a></li>
+                        href="{{ route('services') }}">E-Atıklar </a></li>
                         <li id="menu-item-2213"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a
                         href="{{ route('about') }}">Hakkımızda </a></li>
