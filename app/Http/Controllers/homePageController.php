@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Alert;
+use App\Mail\callMe;
 use App\Mail\contactForm;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
@@ -130,6 +131,31 @@ class homePageController extends Controller
         Mail::to($to)->cc('emir.h.calik@gmail.com')->send(new contactForm($mailDetail));
         alert()
             ->success('Başarılı', 'Mesajınızı aldık, size çok kısa süre içerisinde geri dönüş yapacağız')
+            ->autoClose(2000);
+        return back();
+    }
+
+    public function callBack(Request $request)
+    {
+
+        $validated = $request->validate([
+            'name' => 'required',
+            'tel' => 'required',
+        ],[
+                'name.required' => 'Adınız soyadınız boş olamaz',
+                'tel.required' => 'Telefon boş olamaz'
+            ]
+        );
+
+        $mailDetail = array(
+            'name' => $validated['name'],
+            'phone' => $validated['tel']
+        );
+
+        $to = 'merhaba@elektronikatikistanbul.com';
+        Mail::to($to)->cc('emir.h.calik@gmail.com')->send(new callMe($mailDetail));
+        alert()
+            ->success('Başarılı', 'Arama talebinizi aldık, size çok kısa süre içerisinde geri dönüş yapacağız')
             ->autoClose(2000);
         return back();
     }

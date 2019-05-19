@@ -16,6 +16,7 @@ Route::group(['prefix'=> '/'], function () {
     Route::get('/hakkimizda','homePageController@about')->name('about');
     Route::get('/iletisim','homePageController@contact')->name('contact');
     Route::post('/contactUs','homePageController@contactUs')->name('contactUs');
+    Route::post('/callBack','homePageController@callBack')->name('callBack');
 });
 
 

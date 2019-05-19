@@ -1,4 +1,6 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | Hurda Oem ')
+@section('keyword','elektronik atik,elektronik hurda, hurda anakart, hurda ram ,hurda harddisk,hurda işlemci, hurda cpu')
 @section('section')
     <section class="wf100 p100 inner-header">
         <div class="container"><h1>Oem Hurda Alımı</h1>

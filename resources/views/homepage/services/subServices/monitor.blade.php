@@ -1,4 +1,6 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | Hurda Monitör')
+@section('keyword','elektronik atik,elektronik hurda, hurda monitör, hurda tüplü monitör , hurda televizyon,hurda led panel')
 @section('section')
     <section class="wf100 p100 inner-header">
         <div class="container"><h1>Anakart Hurdası Alımı</h1>

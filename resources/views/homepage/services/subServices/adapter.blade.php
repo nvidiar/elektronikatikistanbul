@@ -1,11 +1,13 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | Hurda Adaptör')
+@section('keyword','elektronik atik,elektronik hurda, hurda adaptör, hurda güç kaynağı,hurda transformatör,hurda balast,hurda trafo')
 @section('section')
     <section class="wf100 p100 inner-header">
-        <div class="container"><h1>Anakart Hurdası Alımı</h1>
+        <div class="container"><h1>Adaptör Hurdası Alımı</h1>
             <ul class="gt-breadcrumb">
                 <li class=""><a href="{{route('home')}}"><i class="fas fa-home"></i> Ana sayfa</a></li>
                 <li><a href="{{route('services')}}">Hurda Alımları</a></li>
-                <li class="current">Anakart</li>
+                <li class="current">Adaptör | Transformatör | Bobin</li>
             </ul>
         </div>
     </section>
@@ -16,31 +18,17 @@
                     <div class="col-lg-12 col-md-12 pull-left">
                         <div class="blog-single-content">
 
-                            <h3>Anakart Hurdası</h3>
+                            <h3>Adaptör Hurdası</h3>
                             <p>
-                                Anakart Hurdaları her çeşit elektronik cihaz içerisinde bulunan ve tüm elektronik
-                                görevleri yerine getiren elektronik devre kartları nın hurdalarıdır. Anakart hurdaları
-                                doğada çözülmesi yüzlerce yıl sürecek kimyasallardır ve büyük çevresel olumsuzluklar
-                                yaratacakları ve tekrar kullanımlarının mümkün olmaması sebebi ile geri kazanımları
-                                yapılarak çevresel etkilerinin önüne geçilmesi gereken ve ekonomik değerleri olan
-                                emtialar olarak değerlendirilmelidir. Bir başka deyişle anakart hurdaları geri dönüşüm
-                                yapılarak ekonomik değer kazandırılamazlarsa çevreyi kirleten malzemeler olarak doğaya
-                                terk edilmektedir ve bu çok büyük bir yanlışlıktır.
+                                Kullanım ömrünü tamamlamış arızalı adaptör,transformatör,led driver, balast veya tüm
+                                akım dengeleyicileriniz değerinde alınır. Hemen fiyat almak için aşağıdaki formu doldurun.
 
-                            </p>
-                            <p>
-                                Genel olarak “anakart hurdaları” denildiği zaman bilgisayarlar içerisinde bulunan
-                                anakartlar akla gelmektedir, temel olarak doğru görünsede aslında her çeşit elektronik
-                                cihazın temel görevini yerine getiren kart bir anakart olarak değerlendirilir, bu
-                                sebeple anakart hurdaları nı geleneksel olarak bilgisayar anakart hurdaları olarak
-                                düşünmek hata değildir ama teknik olarak her çeşit elektronik cihaz içerisinde bir
-                                anakart hurdası bulunmaktadır.
                             </p>
                             <br>
                             <ul style="margin-botton:15px !important;" class="small-gallery">
-                                <li><img src="../../wp-content/uploads/2019/02/mini/main1.png" alt="img"></li>
-                                <li><img src="../../wp-content/uploads/2019/02/mini/main2.jpg" alt="img"></li>
-                                <li><img src="../../wp-content/uploads/2019/02/mini/main3.jpg" alt="img"></li>
+                                <li><img src="../../wp-content/uploads/2019/02/mini/trans.jpg" alt="img"></li>
+                                <li><img src="../../wp-content/uploads/2019/02/mini/bob.jpg" alt="img"></li>
+                                <li><img src="../../wp-content/uploads/2019/02/mini/adap.jpg" alt="img"></li>
                             </ul>
 
 

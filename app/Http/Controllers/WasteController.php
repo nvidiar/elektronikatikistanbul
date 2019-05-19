@@ -112,4 +112,6 @@ class WasteController extends Controller
                 break;
         }
     }
+
+
 }

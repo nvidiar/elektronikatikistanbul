@@ -1,4 +1,6 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | Hurda Anakart')
+@section('keyword','elektronik atik,elektronik hurda, hurda anakart, hurda mainboard ,atık anakart')
 @section('section')
     <section class="wf100 p100 inner-header">
         <div class="container"><h1>Anakart Hurdası Alımı</h1>

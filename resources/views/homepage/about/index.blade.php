@@ -1,4 +1,6 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | Hakkımızda')
+@section('keyword','elektronik atik,elektronik hurda, hurda anakart, hurda cep telefonu , hurda alımı, hakkımızda')
 @section('section')
     <section class="wf100 p100 inner-header ">
         <div class="container"><h1>Hakkımızda</h1>
@@ -358,8 +360,10 @@
                                             <div class="fw-col-xs-12 fw-col-md-4   ">
                                                 <div class="choose-ecova">
                                                     <div class="volunteer-form">
+                                                        <a name="iletisim"></a>
                                                         <div class="section-title"><h3>Sizi arayalım</h3></div>
-                                                        <form id="" method="post">
+                                                        <form action="{{route('callBack')}}" id="" method="post">
+                                                            @csrf
                                                             <ul>
                                                                 <li>
                                                                     <input type="text" class="form-control"

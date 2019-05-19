@@ -208,7 +208,7 @@
                                                                      data-paddingleft="[45,35,35,10]"
                                                                      data-captionhidden="on"
                                                                      style="z-index: 10; white-space: nowrap; font-size: 20px; line-height: 20px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto Slab;background-color:rgb(110,165,59);border-color:rgb(110,165,59);border-style:solid;border-width:2px 2px 2px 2px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                                    <a style="color:black !important;" href="">İletişim
+                                                                    <a style="color:black !important;" href="{{route('contact')}}#iletisim">İletişim
                                                                         Formu</a>
                                                                 </div>
                                                                 <div class="tp-caption rev-btn  tp-resizeme"
@@ -231,7 +231,7 @@
                                                                      data-paddingleft="[45,35,35,14]"
                                                                      data-captionhidden="on"
                                                                      style="z-index: 11;  white-space: nowrap; font-size: 20px; line-height: 20px; font-weight: 400; color: rgba(255,255,255,1); font-family:Roboto Slab;background-color:rgba(110,165,59,0);border-color:rgb(255,255,255);border-style:solid;border-width:2px 2px 2px 2px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                                    <a style="color:white !important; " href=""> <i
+                                                                    <a style="color:white !important; " href="whatsapp://send?phone=+905354928038"> <i
                                                                             class="fab fa-whatsapp fa-2x"></i> Whatsapp</a>
                                                                 </div>
                                                             </li>
@@ -505,7 +505,7 @@
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/storm-sewer-project/index.htm">
+                                                                        <a href="{{route('mainboard')}}">
                                                                             Anakart <br> Hurdası
                                                                         </a></h4> <span
                                                                         class="aicon"><i
@@ -524,7 +524,7 @@
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/this-project-will-consist-of-this/index.htm">
+                                                                        <a href="{{route('phones')}}">
                                                                         Cep Telefonu Hurdası
                                                                         </a></h4>
                                                                     <span class="aicon"><i
@@ -543,7 +543,7 @@
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/forest-and-tree-planting-2/index.htm">
+                                                                        <a href="{{route('tablet')}}">
                                                                             Tablet <br> Hurdası
                                                                         </a></h4> <span
                                                                         class="aicon"><i
@@ -562,7 +562,7 @@
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/recycling-plants-and-cubs/index.htm">
+                                                                        <a href="{{route('adapter')}}">
                                                                             Adaptör <br> Hurdası
                                                                         </a></h4> <span
                                                                         class="aicon"><i
@@ -581,8 +581,8 @@
                                                                          alt=""></div>
                                                                 <div class="ser-txt">
                                                                     <h4>
-                                                                        <a href="projects/a-set-of-detention-ponds/index.htm">
-                                                                            Güç Kaynağı <br> Hurdası
+                                                                        <a href="{{route('oem')}}">
+                                                                            Oem <br> Hurdalar
                                                                         </a></h4> <span
                                                                         class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
@@ -606,7 +606,7 @@
                                 <div class="col-md-12 ">
                                     <div class="fw-row">
                                         <div class="fw-col-xs-12 fw-col-sm-12 fw-col-md-12 fw-col-lg-12   ">
-                                            <div class="fw-divider-space" style="padding-top: 80px;"></div>
+                                            <div class="fw-divider-space" style="padding-top: 10px;"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -630,110 +630,103 @@
                                                 <div class="gallery-inner masonry">
                                                     <div class="row">
                                                         <ul>
-                                                            <li class="col-md-3 col-sm-6 f-cat gallery-filter-57 gallery-filter-66 ">
+                                                            <li class="col-md-3 col-sm-6 f-cat ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/gmasnry1-1.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/1.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/gmasnry1-1-277x248.jpg"
-                                                                                                     class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/1-1.jpg"
+                                                                                                     class=""
                                                                                                      alt="">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-66 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/gmasnry2.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/2.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/gmasnry2-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/2-2.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt="">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-60 gallery-filter-66 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/gmasnry3.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/3.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/gmasnry3-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/3-3.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt="">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-64 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/agallery4-2-1-2-1.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/7.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/agallery4-2-1-2-1-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/7-7.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
-                                                                                                     alt=""
-                                                                                                     srcset="wp-content/uploads/2019/01/agallery4-2-1-2-1-277x248.jpg 277w,
-                                                                                                     wp-content/uploads/2019/01/agallery4-2-1-2-1-278x250.jpg 278w,
-                                                                                                     wp-content/uploads/2019/01/agallery4-2-1-2-1.jpg 279w"
-                                                                                                     sizes="(max-width: 277px) 100vw, 277px">
+                                                                                                     alt="">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-57 gallery-filter-64 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/agallery5-1.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/8.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/agallery5-1-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/8-8.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt=""
-                                                                                                     srcset="wp-content/uploads/2019/01/agallery5-1-277x248.jpg 277w, wp-content/uploads/2019/01/agallery5-1-278x250.jpg 278w, wp-content/uploads/2019/01/agallery5-1.jpg 279w"
                                                                                                      sizes="(max-width: 277px) 100vw, 277px">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-64 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/42-2-1.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/9.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/42-2-1-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/9-9.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt="">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-64 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/agallery7-1-1-1-2-1.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/6.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/agallery7-1-1-1-2-1-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/6-6.jpg"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt=""
-                                                                                                     srcset="wp-content/uploads/2019/01/agallery7-1-1-1-2-1-277x248.jpg 277w, wp-content/uploads/2019/01/agallery7-1-1-1-2-1-278x250.jpg 278w, wp-content/uploads/2019/01/agallery7-1-1-1-2-1.jpg 279w"
                                                                                                      sizes="(max-width: 277px) 100vw, 277px">
                                                                                             </span></li>
                                                             <li class="col-md-3 col-sm-6 f-cat gallery-filter-60 ">
                                                                                             <span>
-                                                                                                <a href="wp-content/uploads/2019/01/agallery8.jpg"
+                                                                                                <a href="wp-content/uploads/2019/02/gallery/5.jpg"
                                                                                                    data-rel="prettyPhoto[gallery]">
                                                                                                     <i class="fas fa-search"></i>
                                                                                                 </a>
                                                                                                 <img width="277"
                                                                                                      height="248"
-                                                                                                     src="wp-content/uploads/2019/01/agallery8-277x248.jpg"
+                                                                                                     src="wp-content/uploads/2019/02/gallery/5-5.png"
                                                                                                      class="attachment-gramotech-gallery-cat size-gramotech-gallery-cat wp-post-image"
                                                                                                      alt=""
-                                                                                                     srcset="wp-content/uploads/2019/01/agallery8-277x248.jpg 277w, wp-content/uploads/2019/01/agallery8-278x250.jpg 278w, wp-content/uploads/2019/01/agallery8.jpg 279w"
                                                                                                      sizes="(max-width: 277px) 100vw, 277px">
                                                                                             </span></li>
                                                         </ul>
@@ -746,7 +739,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="fw-main-row   gramotech-builder this-section-css-18   ">
+                   {{-- <section class="fw-main-row   gramotech-builder this-section-css-18   ">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12 ">
@@ -776,7 +769,7 @@
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section>--}}
                     <section class="fw-main-row   gramotech-builder this-section-css-20   ">
                         <div class="container">
                             <div class="row">

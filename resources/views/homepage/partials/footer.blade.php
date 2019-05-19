@@ -6,14 +6,14 @@
                     <div class=" footer-widget">
                         <div class="about-ecova">
                             <div class="f2logo">
-                                <img src="/wp-content/uploads/2019/02/f2logo.png" alt="img"></div>
+                                <img src="/wp-content/uploads/2019/02/flogo.png" alt="img"></div>
                             <p>
                                 Elektronik Atık İstanbul 2007 yılından bu yana E-atık sektöründe faaaliyet
                                 göstermektedir. Sektöre katıldığımız günden bu yana tonlarca elektronik atığın geri
                                 dönüşümüne katkı sağladık. İlk günkü heyecanımız ile sektörün katma değeri olmaya devam
                                 edeceğiz.
                             </p>
-                            <a href="about/index.htm" class="more">Daha fazla oku</a>
+                            <a href="{{route('about')}}" class="more">Daha fazla oku</a>
                         </div>
                     </div>
                 </div>
@@ -49,54 +49,54 @@
                         <h5 class="widget-title">Etiketler</h5>
                         <div class="tagcloud">
                             <ul class="wp-tag-cloud" role="list">
-                                <li><a href="tag/eco-ideas/index.htm"
+                                <li><a href="{{route('monitor')}}"
                                        class="tag-cloud-link tag-link-32 tag-link-position-1"
                                        style="font-size: 1em;">hurda monitör
                                     </a></li>
-                                <li><a href="tag/trees/index.htm"
+                                <li><a href="{{route('phones')}}"
                                        class="tag-cloud-link tag-link-37 tag-link-position-6"
                                        style="font-size: 1em;">hurda telefon</a>
                                 </li>
-                                <li><a href="tag/plant/index.htm"
+                                <li><a href="{{route('mainboard')}}"
                                        class="tag-cloud-link tag-link-33 tag-link-position-2"
                                        style="font-size: 1em;">hurda bilgisayar</a>
                                 </li>
-                                <li><a href="tag/plant-energy/index.htm"
+                                <li><a href="{{route('mainboard')}}"
                                        class="tag-cloud-link tag-link-34 tag-link-position-3"
                                        style="font-size: 1em;">hurda notebook</a></li>
-                                <li><a href="tag/recycling/index.htm"
+                                <li><a href="{{route('mainboard')}}"
                                        class="tag-cloud-link tag-link-35 tag-link-position-4"
                                        style="font-size: 1em;">hurda kasa</a>
                                 </li>
-                                <li><a href="tag/solor-energy/index.htm"
+                                <li><a href="{{route('tablet')}}"
                                        class="tag-cloud-link tag-link-36 tag-link-position-5"
                                        style="font-size: 1em;">hurda tablet</a></li>
 
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('oem')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda işlemci</a>
                                 </li>
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('mainboard')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda anakart</a>
                                 </li>
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('oem')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda ram</a>
                                 </li>
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('oem')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda floopy</a>
                                 </li>
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('oem')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda dvd-rom</a>
                                 </li>
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('mainboard')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda devre kartı</a>
                                 </li>
-                                <li><a href="tag/water/index.htm"
+                                <li><a href="{{route('oem')}}"
                                        class="tag-cloud-link tag-link-38 tag-link-position-7"
                                        style="font-size: 1em;">hurda uydu</a>
                                 </li>
@@ -138,10 +138,11 @@
                 <div class="col-lg-7">
                     <div class="newsletter">
                         <strong>Sizi arayalım</strong>
-                        <form class="footer-newsletter" id="subscribe" method="post">
+                        <form action="{{route('callBack')}}" class="footer-newsletter" id="subscribe" method="post">
+                            @csrf
                             <ul>
                                 <li>
-                                    <input type="text" id="fname" name="fname" placeholder="Adınız Soyadınız"></li>
+                                    <input type="text" id="fname" name="name" placeholder="Adınız Soyadınız"></li>
                                 <li>
                                     <input type="text" name="tel" id="email_address"
                                            placeholder="Telefon Numaranız"></li>

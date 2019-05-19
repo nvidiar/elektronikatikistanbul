@@ -1,4 +1,6 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | İletişim')
+@section('keyword','elektronik atik,elektronik hurda, hurda anakart, hurda cep telefonu , hurda alımı, iletişim')
 @section('section')
     <section class="wf100 p100 inner-header ">
         <div class="container"><h1>Bize ulaşın</h1>

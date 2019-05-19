@@ -1,7 +1,7 @@
 @extends('homepage.layout')
+@section('title','Elektronik Atık İstanbul | E-Atıklar')
+@section('keyword','elektronik atik,elektronik hurda, hurda anakart, hurda cep telefonu , hurda işlemci,hurda adaptör')
 @section('section')
-
-
     <section class="wf100 p100 inner-header ">
         <div class="container"><h1>Elektronik atıklar</h1>
             <ul class="gt-breadcrumb">
