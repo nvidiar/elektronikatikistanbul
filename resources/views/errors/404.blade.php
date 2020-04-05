@@ -2,5 +2,5 @@
 
 @section('title', __('Not Found'))
 @section('code', '404')
-@section('message',__($exception->getMessage() ?: 'blablabla'))
+@section('message',__($exception->getMessage() ?: "hmmm.."))
 

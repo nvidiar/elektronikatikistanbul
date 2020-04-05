@@ -208,7 +208,8 @@
                                                                      data-paddingleft="[45,35,35,10]"
                                                                      data-captionhidden="on"
                                                                      style="z-index: 10; white-space: nowrap; font-size: 20px; line-height: 20px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto Slab;background-color:rgb(110,165,59);border-color:rgb(110,165,59);border-style:solid;border-width:2px 2px 2px 2px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                                    <a style="color:black !important;" href="{{route('contact')}}#iletisim">İletişim
+                                                                    <a style="color:black !important;"
+                                                                       href="{{route('contact')}}#iletisim">İletişim
                                                                         Formu</a>
                                                                 </div>
                                                                 <div class="tp-caption rev-btn  tp-resizeme"
@@ -231,7 +232,8 @@
                                                                      data-paddingleft="[45,35,35,14]"
                                                                      data-captionhidden="on"
                                                                      style="z-index: 11;  white-space: nowrap; font-size: 20px; line-height: 20px; font-weight: 400; color: rgba(255,255,255,1); font-family:Roboto Slab;background-color:rgba(110,165,59,0);border-color:rgb(255,255,255);border-style:solid;border-width:2px 2px 2px 2px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                                    <a style="color:white !important; " href="whatsapp://send?phone=+905354928038"> <i
+                                                                    <a style="color:white !important; "
+                                                                       href="whatsapp://send?phone=+905354928038"> <i
                                                                             class="fab fa-whatsapp fa-2x"></i> Whatsapp</a>
                                                                 </div>
                                                             </li>
@@ -441,16 +443,23 @@
                                                             <p>Aslında cevabımız basit, elektronik olan her şeyi. Bir
                                                                 kumanda anakartından tutun da bir klima radyotörüne
                                                                 kadar her şeyi. Siz bize sormaktan çekinmeyin ama
-                                                                biz yinede aşağıya neleri geri dönüştürdüğümüzü <u><b>kısaca</b></u> yazalım</p>
+                                                                biz yinede aşağıya neleri geri dönüştürdüğümüzü <u><b>kısaca</b></u>
+                                                                yazalım</p>
                                                             <ul>
-                                                                <li><i class="fas fa-recycle"></i> Bilgisayar Donanımları</li>
-                                                                <li><i class="fas fa-recycle"></i> Bilgisayar Aksesuarları
+                                                                <li><i class="fas fa-recycle"></i> Bilgisayar
+                                                                    Donanımları
                                                                 </li>
-                                                                <li><i class="fas fa-recycle"></i> Notebooklar,tabletler,telefonlar</li>
+                                                                <li><i class="fas fa-recycle"></i> Bilgisayar
+                                                                    Aksesuarları
+                                                                </li>
+                                                                <li><i class="fas fa-recycle"></i>
+                                                                    Notebooklar,tabletler,telefonlar
+                                                                </li>
                                                                 <li><i class="fas fa-recycle"></i> Devre kartları
                                                                 </li>
                                                                 <li><i class="fas fa-recycle"></i> Devre Elemanları</li>
-                                                                <li><i class="fas fa-recycle"></i> Aküler,bataryalar,Upsler
+                                                                <li><i class="fas fa-recycle"></i>
+                                                                    Aküler,bataryalar,Upsler
                                                                 </li>
                                                             </ul>
                                                             <a class="lm" href="#">Daha fazla öğren</a>
@@ -497,7 +506,7 @@
                                                         <div class="ser-col">
                                                             <div class="ser-box">
                                                                 <div class="ser-thumb">
-                                                                    <a href="projects/storm-sewer-project/index.htm">
+                                                                    <a href="{{route('mainboard')}}">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
                                                                          src="wp-content/uploads/2019/02/main.jpg"
@@ -516,7 +525,7 @@
                                                         <div class="ser-col">
                                                             <div class="ser-box">
                                                                 <div class="ser-thumb">
-                                                                    <a href="projects/this-project-will-consist-of-this/index.htm">
+                                                                    <a href="{{route('phones')}}">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
                                                                          src="wp-content/uploads/2019/02/phones.jpg"
@@ -525,7 +534,7 @@
                                                                 <div class="ser-txt">
                                                                     <h4>
                                                                         <a href="{{route('phones')}}">
-                                                                        Cep Telefonu Hurdası
+                                                                            Cep Telefonu Hurdası
                                                                         </a></h4>
                                                                     <span class="aicon"><i
                                                                             class="fas fa-arrow-right"></i></span>
@@ -535,7 +544,7 @@
                                                         <div class="ser-col">
                                                             <div class="ser-box">
                                                                 <div class="ser-thumb">
-                                                                    <a href="projects/forest-and-tree-planting-2/index.htm">
+                                                                    <a href="{{route('tablet')}}">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
                                                                          src="wp-content/uploads/2019/02/tablet.jpg"
@@ -554,7 +563,7 @@
                                                         <div class="ser-col">
                                                             <div class="ser-box">
                                                                 <div class="ser-thumb">
-                                                                    <a href="projects/recycling-plants-and-cubs/index.htm">
+                                                                    <a href="{{route('adapter')}}">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
                                                                          src="wp-content/uploads/2019/02/adapters.jpg"
@@ -573,7 +582,7 @@
                                                         <div class="ser-col">
                                                             <div class="ser-box">
                                                                 <div class="ser-thumb">
-                                                                    <a href="projects/a-set-of-detention-ponds/index.htm">
+                                                                    <a href="{{route('oem')}}">
                                                                         <i class="fas fa-link"></i></a>
                                                                     <img width="360" height="280"
                                                                          src="wp-content/uploads/2019/02/power.jpg"
@@ -590,8 +599,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                            {{--        <div class="load-more text-center w-100"><a href="#" class="lm">View
-                                                            More Work</a></div>--}}
+                                                    {{--        <div class="load-more text-center w-100"><a href="#" class="lm">View
+                                                                    More Work</a></div>--}}
                                                 </div>
                                             </div>
                                         </div>
@@ -739,37 +748,37 @@
                             </div>
                         </div>
                     </section>
-                   {{-- <section class="fw-main-row   gramotech-builder this-section-css-18   ">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 ">
-                                    <div class="fw-row">
-                                        <div class="fw-col-xs-12 fw-col-sm-12 fw-col-md-12 fw-col-lg-12   ">
-                                            <div class="partner-logos wf100">
-                                                <div id="partner-logos" class="owl-carousel owl-theme">
-                                                    <div class="item"><img
-                                                            src="../wp-content/uploads/2019/01/plogo1-1.png"
-                                                            alt="img"></div>
-                                                    <div class="item"><img
-                                                            src="../wp-content/uploads/2019/01/plogo2.png"
-                                                            alt="img"></div>
-                                                    <div class="item"><img
-                                                            src="../wp-content/uploads/2019/01/plogo3.png"
-                                                            alt="img"></div>
-                                                    <div class="item"><img
-                                                            src="../wp-content/uploads/2019/01/plogo4.png"
-                                                            alt="img"></div>
-                                                    <div class="item"><img
-                                                            src="../wp-content/uploads/2019/01/plogo5.png"
-                                                            alt="img"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>--}}
+                    {{-- <section class="fw-main-row   gramotech-builder this-section-css-18   ">
+                         <div class="container">
+                             <div class="row">
+                                 <div class="col-md-12 ">
+                                     <div class="fw-row">
+                                         <div class="fw-col-xs-12 fw-col-sm-12 fw-col-md-12 fw-col-lg-12   ">
+                                             <div class="partner-logos wf100">
+                                                 <div id="partner-logos" class="owl-carousel owl-theme">
+                                                     <div class="item"><img
+                                                             src="../wp-content/uploads/2019/01/plogo1-1.png"
+                                                             alt="img"></div>
+                                                     <div class="item"><img
+                                                             src="../wp-content/uploads/2019/01/plogo2.png"
+                                                             alt="img"></div>
+                                                     <div class="item"><img
+                                                             src="../wp-content/uploads/2019/01/plogo3.png"
+                                                             alt="img"></div>
+                                                     <div class="item"><img
+                                                             src="../wp-content/uploads/2019/01/plogo4.png"
+                                                             alt="img"></div>
+                                                     <div class="item"><img
+                                                             src="../wp-content/uploads/2019/01/plogo5.png"
+                                                             alt="img"></div>
+                                                 </div>
+                                             </div>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </section>--}}
                     <section class="fw-main-row   gramotech-builder this-section-css-20   ">
                         <div class="container">
                             <div class="row">

@@ -13,6 +13,9 @@
                         <li id="menu-item-2213"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a
                         href="{{ route('services') }}">E-Atıklar </a></li>
+                    <li id="menu-item-2213"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a
+                        href="{{ route('pricing') }}">Fiyatlandırma </a></li>
                         <li id="menu-item-2213"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a
                         href="{{ route('about') }}">Hakkımızda </a></li>

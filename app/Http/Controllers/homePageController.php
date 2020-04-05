@@ -7,6 +7,7 @@ use App\Mail\callMe;
 use App\Mail\contactForm;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
+use App\pricing;
 
 class homePageController extends Controller
 {
@@ -91,9 +92,36 @@ class homePageController extends Controller
         return view('homepage.about.index');
     }
 
+    public function pricing()
+    {
+        $items = pricing::all();
+        return view('homepage.pricing.index',compact('items'));
+    }
+
     public function contact()
     {
         return view('homepage.contact.index');
+    }
+
+    public function login()
+    {
+        return view('auth.login');
+    }
+
+
+    public function registerStore()
+    {
+        $this->validate(request(), [
+            'name' => 'required',
+            'email' => 'required|email',
+            'password' => 'required|confirmed'
+        ]);
+
+        $user = User::create(request(['name', 'email', 'password']));
+
+        auth()->login($user);
+
+        return redirect()->to('/login');
     }
 
     public function services()
